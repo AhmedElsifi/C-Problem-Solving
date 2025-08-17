@@ -62,8 +62,6 @@ This is mainly my personal practice repo, but feel free to suggest improvements 
 
 This project is licensed under the **MIT License**.
 
-```
 
----
 
 
